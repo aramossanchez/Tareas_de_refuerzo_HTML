@@ -1,0 +1,24 @@
+body{
+    background-color: #F9F4D8;
+}
+h1{
+    background-color: #F9C43D;
+    font-size: 1em;
+}
+h2{
+    font-style: oblique;
+    color:steelblue;
+    font-size: 1.5em;
+}
+h7{
+    color: steelblue;
+    font-weight: bold;
+    font-size: 1em;
+}
+span{
+    font-style: oblique;
+    color:steelblue;
+}
+td{
+    padding-left: 1.5em;
+}

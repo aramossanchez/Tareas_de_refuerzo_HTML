@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    color: forestgreen;
+    letter-spacing: 0.5em;
+}
+h2{
+    color:lawngreen;
+    margin-bottom: 0;
+}
+h3{
+    color: chocolate;
+}
+hr{
+    border-color: lawngreen;
+    margin:0;
+}
+span{
+    color:chocolate
+}
+section{
+    border: solid 1px grey;
+    margin: 1em;
+    padding: 1em;
+}

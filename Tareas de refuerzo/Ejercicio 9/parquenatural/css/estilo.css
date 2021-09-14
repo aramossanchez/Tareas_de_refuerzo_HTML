@@ -1,0 +1,62 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul{
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+ul li{
+    all:unset;
+    background-color: lawngreen;
+    margin-bottom: 1em;
+    padding: 1em;
+    cursor: pointer;
+    transition: 0.5s;
+}
+ul li:hover{
+    background-color: black;
+    color:white
+}
+.inicio{
+    background-color:chocolate;
+}
+a{
+    all:unset;
+    padding: 2em;
+}
+h1{
+    text-align: center;
+    color: forestgreen;
+    letter-spacing: 0.25em;
+}
+h2{
+    color:lawngreen;
+    margin-bottom: 0;
+}
+h3{
+    color: chocolate;
+}
+hr{
+    border-color: lawngreen;
+    margin:0;
+}
+span{
+    color:chocolate
+}
+section{
+    border: solid 1px grey;
+    margin: 1em;
+    padding: 1em;
+}
+.contenedor{
+    width: 900px;
+}
+.cuerpo-pagina{
+    display: flex;
+    flex-direction: row;
+}
