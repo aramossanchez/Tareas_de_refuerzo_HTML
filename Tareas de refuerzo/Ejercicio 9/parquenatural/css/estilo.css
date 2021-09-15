@@ -30,7 +30,6 @@ a{
     padding: 2em;
 }
 h1{
-    text-align: center;
     color: forestgreen;
     letter-spacing: 0.25em;
 }
@@ -48,15 +47,21 @@ hr{
 span{
     color:chocolate
 }
+.contenedor{
+    width: 900px;
+    border: 10px solid rgb(207, 207, 207);
+    display: flex;
+    flex-direction: row;
+}
 section{
-    border: solid 1px grey;
     margin: 1em;
     padding: 1em;
 }
-.contenedor{
-    width: 900px;
+article{
+    border: solid 2px grey;
+    padding: 1em;
 }
-.cuerpo-pagina{
-    display: flex;
-    flex-direction: row;
+aside{
+    position: relative;
+    top:6em;
 }

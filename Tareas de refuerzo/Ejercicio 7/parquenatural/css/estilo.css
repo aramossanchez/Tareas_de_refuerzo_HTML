@@ -1,5 +1,6 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 10px solid rgb(207, 207, 207);
 }
 h1{
     text-align: center;
@@ -14,8 +15,10 @@ h3{
     color: chocolate;
 }
 hr{
-    border-color: lawngreen;
+    border-color: transparent;
+    background-color:lawngreen;
     margin:0;
+    padding: 0;
 }
 span{
     color:chocolate
