@@ -41,7 +41,8 @@ h3{
     color: chocolate;
 }
 hr{
-    border-color: lawngreen;
+    background-color: lawngreen;
+    border-color: transparent;
     margin:0;
 }
 span{
