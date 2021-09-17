@@ -4,6 +4,7 @@
 <br>
 Los retos consisten en replicar las páginas que se muestran para cada reto.
 <br>
+Se puede ver el resultado de cada reto bien en los pantallazos o bien en el .html con los enlaces a cada uno de ellos.
 
 ### Reto 1:
 ![Reto 1](./screenshots/reto1.jpg)
