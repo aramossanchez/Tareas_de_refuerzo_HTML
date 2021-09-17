@@ -19,10 +19,10 @@ Se puede ver el resultado de cada reto bien en los pantallazos o bien en el .htm
 ### Reto 6:
 ![Reto 6](./screenshots/reto6.jpg)
 ### Reto 7:
-![Reto 6](./screenshots/reto7.jpg)
+![Reto 7](./screenshots/reto7.jpg)
 ### Reto 8:
-![Reto 6](./screenshots/reto8.jpg)
+![Reto 8](./screenshots/reto8.jpg)
 ### Reto 9:
-![Reto 6](./screenshots/reto9.jpg)
+![Reto 9](./screenshots/reto9.jpg)
 ### Reto 10:
-![Reto 6](./screenshots/reto10.jpg)
+![Reto 10](./screenshots/reto10.jpg)
